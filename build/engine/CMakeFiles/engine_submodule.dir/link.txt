@@ -1,0 +1,2 @@
+/usr/bin/ar qc libengine_submodule.a CMakeFiles/engine_submodule.dir/src/eastl_custom.cpp.o CMakeFiles/engine_submodule.dir/src/engine.cpp.o CMakeFiles/engine_submodule.dir/src/moduleManager.cpp.o
+/usr/bin/ranlib libengine_submodule.a

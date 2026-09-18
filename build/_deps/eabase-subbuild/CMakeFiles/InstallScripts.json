@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/grch/code/engine/build/_deps/eabase-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

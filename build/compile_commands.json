@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/grch/code/engine/build",
+  "command": "/usr/bin/c++  -I/home/grch/code/engine/engine/include -I/home/grch/code/engine/build/_deps/entt-src/src -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common -I/home/grch/code/engine/build/_deps/nlohmann_json-src/include  -o CMakeFiles/main.dir/main.cpp.o -c /home/grch/code/engine/main.cpp",
+  "file": "/home/grch/code/engine/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/engine",
+  "command": "/usr/bin/c++  -I/home/grch/code/engine/engine/include -I/home/grch/code/engine/build/_deps/entt-src/src -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common -I/home/grch/code/engine/build/_deps/nlohmann_json-src/include  -o CMakeFiles/engine_submodule.dir/src/eastl_custom.cpp.o -c /home/grch/code/engine/engine/src/eastl_custom.cpp",
+  "file": "/home/grch/code/engine/engine/src/eastl_custom.cpp",
+  "output": "engine/CMakeFiles/engine_submodule.dir/src/eastl_custom.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/engine",
+  "command": "/usr/bin/c++  -I/home/grch/code/engine/engine/include -I/home/grch/code/engine/build/_deps/entt-src/src -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common -I/home/grch/code/engine/build/_deps/nlohmann_json-src/include  -o CMakeFiles/engine_submodule.dir/src/engine.cpp.o -c /home/grch/code/engine/engine/src/engine.cpp",
+  "file": "/home/grch/code/engine/engine/src/engine.cpp",
+  "output": "engine/CMakeFiles/engine_submodule.dir/src/engine.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/engine",
+  "command": "/usr/bin/c++  -I/home/grch/code/engine/engine/include -I/home/grch/code/engine/build/_deps/entt-src/src -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common -I/home/grch/code/engine/build/_deps/nlohmann_json-src/include  -o CMakeFiles/engine_submodule.dir/src/moduleManager.cpp.o -c /home/grch/code/engine/engine/src/moduleManager.cpp",
+  "file": "/home/grch/code/engine/engine/src/moduleManager.cpp",
+  "output": "engine/CMakeFiles/engine_submodule.dir/src/moduleManager.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/allocator_eastl.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/allocator_eastl.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/allocator_eastl.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/allocator_eastl.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/assert.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/assert.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/assert.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/assert.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/atomic.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/atomic.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/atomic.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/atomic.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/fixed_pool.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/fixed_pool.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/fixed_pool.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/fixed_pool.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/hashtable.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/hashtable.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/hashtable.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/hashtable.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/intrusive_list.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/intrusive_list.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/intrusive_list.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/intrusive_list.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/numeric_limits.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/numeric_limits.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/numeric_limits.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/numeric_limits.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/red_black_tree.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/red_black_tree.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/red_black_tree.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/red_black_tree.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/string.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/string.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/string.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/string.cpp.o"
+},
+{
+  "directory": "/home/grch/code/engine/build/_deps/eastl-build",
+  "command": "/usr/bin/c++ -DEASTL_OPENSOURCE=1 -D_CHAR16T -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I/home/grch/code/engine/build/_deps/eastl-src/include -I/home/grch/code/engine/build/_deps/eabase-src/include/Common  -std=c++17 -o CMakeFiles/EASTL.dir/source/thread_support.cpp.o -c /home/grch/code/engine/build/_deps/eastl-src/source/thread_support.cpp",
+  "file": "/home/grch/code/engine/build/_deps/eastl-src/source/thread_support.cpp",
+  "output": "_deps/eastl-build/CMakeFiles/EASTL.dir/source/thread_support.cpp.o"
+}
+]

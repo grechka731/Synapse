@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/grch/code/engine/build/cmake_install.cmake",
+		"/home/grch/code/engine/build/engine/cmake_install.cmake",
+		"/home/grch/code/engine/build/_deps/entt-build/cmake_install.cmake",
+		"/home/grch/code/engine/build/_deps/eastl-build/cmake_install.cmake",
+		"/home/grch/code/engine/build/_deps/eabase-build/cmake_install.cmake",
+		"/home/grch/code/engine/build/_deps/nlohmann_json-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

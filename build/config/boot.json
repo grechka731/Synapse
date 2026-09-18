@@ -1,0 +1,10 @@
+{
+  "modules": [
+    {
+      "name": "name1",
+      "path": "modules/game_logic",
+      "category": "Game",
+      "enabled": true
+    }
+  ]
+}
